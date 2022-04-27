@@ -50,10 +50,8 @@
 </div>  
   
 
-<br/>  
-
-<img src="https://media.discordapp.net/attachments/900111005059801138/968989328158097448/1651095431069.png" align="center" height="40" width="40" />  
-
-<br />
+<div align="center">  
+<img src="https://media.discordapp.net/attachments/900111005059801138/968989328158097448/1651095431069.png" align="center" height="60" width="60" />  
+</div>
 
 ----
