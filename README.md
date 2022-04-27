@@ -52,7 +52,7 @@
 
 <br/>  
 
-<img src="https://media.discordapp.net/attachments/900111005059801138/968989328158097448/1651095431069.png" align="center" style="width: 100%" />  
+<img src="https://media.discordapp.net/attachments/900111005059801138/968989328158097448/1651095431069.png" align="center" height="40" width="40" />  
 
 <br />
 
