@@ -31,7 +31,7 @@
   
 
 <div align="center">
-<img src="https://media.discordapp.net/attachments/865598508924796978/968971801541615697/5687_Gmail.png" align="center" height="23" width="23" />
+<img src="https://media.discordapp.net/attachments/865598508924796978/968971801541615697/5687_Gmail.png" align="center" height="22" width="22" />
 </div>  
   
 
