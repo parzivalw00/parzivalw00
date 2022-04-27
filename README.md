@@ -51,7 +51,7 @@
   
 
 <div align="center">  
-<img src="https://media.discordapp.net/attachments/865598508924796978/968995340353175623/1651096888151.png" align="center" height="120" width="120" />  
+<img src="https://media.discordapp.net/attachments/865598508924796978/968995340353175623/1651096888151.png" align="center" height="200" width="200" />  
 </div>
 
 ----
