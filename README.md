@@ -31,12 +31,12 @@
   
 
 <div align="center">
-<img src="https://media.discordapp.net/attachments/865598508924796978/968971801541615697/5687_Gmail.png" align="left" height="22" width="22" />
+<img src="https://media.discordapp.net/attachments/865598508924796978/968971801541615697/5687_Gmail.png" align="left" height="30" width="30" />
 </div>  
   
 
 <div align="center">
-<img src="https://media.discordapp.net/attachments/865598508924796978/968948150410805328/1292-discord-emoji-black.png" align="right" height="20" width="20" />
+<img src="https://media.discordapp.net/attachments/865598508924796978/968948150410805328/1292-discord-emoji-black.png" align="right" height="30" width="30" />
 </div>  
 
   
@@ -46,12 +46,12 @@
 
 
 <div align="center">
-<img src="https://media.discordapp.net/attachments/865598508924796978/968991414081966110/6045-instagram.png" align="left" height="22" width="22" />
+<img src="https://media.discordapp.net/attachments/865598508924796978/968991414081966110/6045-instagram.png" align="left" height="30" width="30" />
 </div>  
   
 
 <div align="center">
-<img src="https://media.discordapp.net/attachments/865598508924796978/968971801256398919/9610-youtube-emoji-black.png" align="right" height="21" width="21" />
+<img src="https://media.discordapp.net/attachments/865598508924796978/968971801256398919/9610-youtube-emoji-black.png" align="right" height="30" width="30" />
 </div>  
   
 
