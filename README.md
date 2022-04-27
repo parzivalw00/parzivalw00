@@ -25,7 +25,8 @@
 ##### <ins><div align="center">My GitHub Stats</div></ins>  
   
 
-<img src="https://github-readme-stats.vercel.app/api?username=parzivalw00&theme=dark&show_icons=true" align="center" height="300" width="800" />  
+<img src="https://github-readme-stats.vercel.app/api?username=parzivalw00&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />  
+
 ##### <ins><div align="center">Follow Us</div></ins>  
   
 
