@@ -1,75 +1,58 @@
-**Hi, I'm - ᴘᴀʀᴢɪᴠᴀʟ ☾**  
+**<div align="center">- ᴘᴀʀᴢɪᴠᴀʟ ☾</div>**  
   
 
-<div align="center">Discord Developer .. Aplication & Bot designer .. Painter & Graphic Designer</div>  
-  
-
-<br/>  
-
-
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="25" />  
-</div>
-
-</td><td valign="top" width="33%">
-
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" />  
-</div>
-
-</td><td valign="top" width="33%">
-
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" />  
-</div>
-
-</td></tr></table>  
-
-<br/>  
-
-
-## Connect with me  
-Discord: https://discord.gg/kqnhfCcvcd  
-  
-
-Gmail: www.abolparzival@gmail.co.  
-  
-
-Instagram: https://www.instagram.com/parzivalw_/  
-  
-
-<br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=rishavanand&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" /></div>  
-
-<br/>  
-
-
-## Recent Blog Posts  
 <div align="center">
-<img src="https://media.discordapp.net/attachments/900111005059801138/968826019714826270/unnamed_1_as_Smart_Object_1.jpg" align="center" height="300" width="320" />
+<img src="https://media.discordapp.net/attachments/900111005059801138/953073684703232001/MafiaSnake_-_V2.png" align="center" height="32" width="32" />
+</div>  
+  
+
+##### <div align="center">Discord Developer</div>  
+  
+
+###### <div align="center">NODE.JS Developer - Artist - Graphics Designer</div>  
+  
+
+<div align="center">
+<img src="https://media.discordapp.net/attachments/865598508924796978/968971800153301042/1564-badge-developer.png" align="center" height="17" width="17" />
+</div>  
+  
+
+###### **<div align="center">• Root-kali</div>**  
+  
+
+<br/>  
+
+##### <ins><div align="center">My GitHub Stats</div></ins>  
+  
+
+<img src="https://github-readme-stats.vercel.app/api?username=parzivalw00&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />  
+
+##### <ins><div align="center">Follow Us</div></ins>  
+  
+
+<div align="center">
+<img src="https://media.discordapp.net/attachments/865598508924796978/968971801541615697/5687_Gmail.png" align="center" height="23" width="23" />
+</div>  
+  
+
+<div align="center">
+<img src="https://media.discordapp.net/attachments/865598508924796978/968948150410805328/1292-discord-emoji-black.png" align="center" height="20" width="20" />
+</div>  
+  
+
+<div align="center">
+<img src="https://media.discordapp.net/attachments/865598508924796978/968971800665026690/6045-instagram.png" align="center" height="22" width="22" />
+</div>  
+  
+
+<div align="center">
+<img src="https://media.discordapp.net/attachments/865598508924796978/968971801256398919/9610-youtube-emoji-black.png" align="center" height="21" width="21" />
 </div>  
   
 
 <br/>  
 
-  
-
-<br/>  
-
-**<div align="center">- ᴘᴀʀᴢɪᴠᴀʟ ☾</div>**  
-  
-
-<br/>  
-
+<img src="https://media.discordapp.net/attachments/900111005059801138/968989328158097448/1651095431069.png" align="left" style="width: 100%" />  
 
 <br />
 
