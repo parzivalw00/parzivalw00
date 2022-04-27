@@ -46,12 +46,12 @@
 
 
 <div align="center">
-<img src="https://media.discordapp.net/attachments/865598508924796978/968991414081966110/6045-instagram.png" align="center" height="22" width="22" />
+<img src="https://media.discordapp.net/attachments/865598508924796978/968991414081966110/6045-instagram.png" align="left" height="22" width="22" />
 </div>  
   
 
 <div align="center">
-<img src="https://media.discordapp.net/attachments/865598508924796978/968971801256398919/9610-youtube-emoji-black.png" align="center" height="21" width="21" />
+<img src="https://media.discordapp.net/attachments/865598508924796978/968971801256398919/9610-youtube-emoji-black.png" align="right" height="21" width="21" />
 </div>  
   
 
