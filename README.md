@@ -31,17 +31,17 @@
   
 
 <div align="center">
-<img src="https://media.discordapp.net/attachments/865598508924796978/968971801541615697/5687_Gmail.png" align="center" height="22" width="22" />
+<img src="https://media.discordapp.net/attachments/865598508924796978/968971801541615697/5687_Gmail.png" align="left" height="22" width="22" />
 </div>  
   
 
 <div align="center">
-<img src="https://media.discordapp.net/attachments/865598508924796978/968948150410805328/1292-discord-emoji-black.png" align="center" height="20" width="20" />
+<img src="https://media.discordapp.net/attachments/865598508924796978/968948150410805328/1292-discord-emoji-black.png" align="right" height="20" width="20" />
 </div>  
 
   
 <div align="center">  
-<img src="https://media.discordapp.net/attachments/865598508924796978/968995340353175623/1651096888151.png" align="center" height="200" width="200" />  
+<img src="https://media.discordapp.net/attachments/865598508924796978/968995340353175623/1651096888151.png" align="center" height="150" width="150" />  
 </div>
 
 
