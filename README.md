@@ -7,7 +7,7 @@
 ##### <div align="center">Discord Developer</div>  
   
 
- <div align="center">NODE.JS Developer - Artist - Graphics Designer</div>  
+## <div align="center">NODE.JS Developer - Artist - Graphics Designer</div>  
 
 
 
