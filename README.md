@@ -5,12 +5,12 @@
 </div>
 
 ##### <div align="center">Discord Developer</div>  
-  
 
 ###### <div align="center">NODE.JS Developer - Graphics Designer</div>  
 
 ###### <div align="center">Artist - Painter</div>
 
+###### <div align="center">⚙️</div>
 
 <br/>
 
