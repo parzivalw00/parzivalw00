@@ -9,7 +9,7 @@
 
 ###### <div align="center">NODE.JS Developer - Graphics Designer</div>  
 
-###### <div align="center">Artist</div>
+###### <div align="center">Artist - Painter</div>
 
 
 <br/>
