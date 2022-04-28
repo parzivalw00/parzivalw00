@@ -1,3 +1,4 @@
+**<div align="center">- ᴘᴀʀᴢɪᴠᴀʟ ☾</div>**
 
 [![logo dic]](https://discord.gg/GzFPXvYGzw) |  | [![logo insta]](https://www.instagram.com/parzivalw_/) 
  | :-: | :-: | :-: |
