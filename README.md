@@ -1,4 +1,5 @@
 [![logo dic]](https://discord.gg/GzFPXvYGzw) |   | [![logo insta]](https://www.instagram.com/parzivalw_/) |
+:----: | :----: | :----:
   |       |
   | ![logo me] |  
   |       |
