@@ -1,8 +1,8 @@
+<br/>
 
-
-**<div align="center">
+<div align="center">
 <img src="https://media.discordapp.net/attachments/900111005059801138/953073684703232001/MafiaSnake_-_V2.png" align="center" height="32" width="32" />
-</div>**
+</div>
 
 ##### <div align="center">Discord Developer</div>  
   
