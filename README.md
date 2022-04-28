@@ -8,8 +8,6 @@
 
 
 
-
-
 [logo dic]: http://s12.picofile.com/file/8401950368/PicsArt_07_04_01.png
 
 [logo insta]: http://s12.picofile.com/file/8401950284/2220.png
