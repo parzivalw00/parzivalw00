@@ -1,4 +1,3 @@
-[![logo realm]](http://s13.picofile.com/file/8401970050/555555550.png) | 
 
 [![logo dic]](https://discord.gg/NaqEFjj) |   | [![logo insta]](https://www.instagram.com/parzivalw_/)
 :--: | :---: | :---:
@@ -20,5 +19,3 @@
 [logo donate]: http://s12.picofile.com/file/8401950250/333330.png
 
 [logo telegram]: http://s12.picofile.com/file/8401950326/111.png
-
-[logo realm]: http://s13.picofile.com/file/8401970050/555555550.png
