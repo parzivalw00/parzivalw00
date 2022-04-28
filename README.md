@@ -1,58 +1,24 @@
-**<div align="center">- ᴘᴀʀᴢɪᴠᴀʟ ☾</div>**  
-  
+[![logo realm]](http://s13.picofile.com/file/8401970050/555555550.png) | 
 
-<div align="center">
-<img src="https://media.discordapp.net/attachments/900111005059801138/953073684703232001/MafiaSnake_-_V2.png" align="center" height="32" width="32" />
-</div>  
-  
-
-##### <div align="center">Discord Developer</div>  
-  
-
-###### <div align="center">NODE.JS Developer - Artist - Graphics Designer</div>  
-  
-
-<div align="center">
-<img src="https://media.discordapp.net/attachments/865598508924796978/968971800153301042/1564-badge-developer.png" align="center" height="17" width="17" />
-</div>  
-  
-
-###### **<div align="center">• Root-kali</div>**  
-  
-
-<br/>  
-
-##### <ins><div align="center">My GitHub Stats</div></ins>  
-  
-
-<img src="https://github-readme-stats.vercel.app/api?username=parzivalw00&theme=dark&show_icons=true" align="center" height="270" width="850" />  
-
-##### <ins><div align="center">Follow Us</div></ins>  
-  
-
-<div align="center">
-<img src="https://media.discordapp.net/attachments/865598508924796978/968971801541615697/5687_Gmail.png" align="left" height="30" width="30" />
-</div>  
-  
-
-<div align="center">
-<img src="https://media.discordapp.net/attachments/865598508924796978/968948150410805328/1292-discord-emoji-black.png" align="right" height="30" width="30" />
-</div>  
-
-  
-<div align="center">  
-<img src="https://media.discordapp.net/attachments/865598508924796978/968995340353175623/1651096888151.png" align="center" height="150" width="150" />  
-</div>
+[![logo dic]](https://discord.gg/NaqEFjj) |   | [![logo insta]](https://www.instagram.com/parzivalw_/)
+:--: | :---: | :---:
+  |       |
+  | ![logo me] |  
+  |       |
+[![logo telegram]](http://s10.picofile.com/file/8395073492/Untitled_1_2.png) |   | [![logo DONATE]](https://reymit.ir/p.a.r.z.i.v.a.l) |
 
 
-<div align="center">
-<img src="https://media.discordapp.net/attachments/865598508924796978/968991414081966110/6045-instagram.png" align="left" height="30" width="30" />
-</div>  
-  
 
-<div align="center">
-<img src="https://media.discordapp.net/attachments/865598508924796978/968971801256398919/9610-youtube-emoji-black.png" align="right" height="30" width="30" />
-</div>  
-  
 
-----
+
+[logo dic]: http://s12.picofile.com/file/8401950368/PicsArt_07_04_01.png
+
+[logo insta]: http://s12.picofile.com/file/8401950284/2220.png
+
+[logo me]: http://s12.picofile.com/file/8401950384/unnamed_1_as_Smart_Object_1.png
+
+[logo donate]: http://s12.picofile.com/file/8401950250/333330.png
+
+[logo telegram]: http://s12.picofile.com/file/8401950326/111.png
+
+[logo realm]: http://s13.picofile.com/file/8401970050/555555550.png
