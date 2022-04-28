@@ -1,5 +1,10 @@
 **<div align="center">- ᴘᴀʀᴢɪᴠᴀʟ ☾</div>**
 
+<div align="center">
+<img src="https://media.discordapp.net/attachments/900111005059801138/953073684703232001/MafiaSnake_-_V2.png" align="center" height="32" width="32" />
+</div>  
+
+
 [![logo dic]](https://discord.gg/GzFPXvYGzw) |  | [![logo insta]](https://www.instagram.com/parzivalw_/) 
  | :-: | :-: | :-: |
  | | ![logo me] |  |
