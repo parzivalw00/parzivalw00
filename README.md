@@ -30,3 +30,10 @@
 [logo donate]: http://s12.picofile.com/file/8401950250/333330.png
 
 [logo telegram]: http://s12.picofile.com/file/8401950326/111.png
+
+
+<br/>
+
+**<div align="center">Stats</div>** 
+
+<img src="https://github-readme-stats.vercel.app/api?username=parzivalw00&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />  
