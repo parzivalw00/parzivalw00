@@ -4,6 +4,13 @@
 <img src="https://media.discordapp.net/attachments/900111005059801138/953073684703232001/MafiaSnake_-_V2.png" align="center" height="32" width="32" />
 </div>  
 
+##### <div align="center">Discord Developer</div>  
+  
+
+###### <div align="center">NODE.JS Developer - Artist - Graphics Designer</div>  
+
+
+
 <br/>
 
 [![logo dic]](https://discord.gg/GzFPXvYGzw) |  | [![logo insta]](https://www.instagram.com/parzivalw_/) 
