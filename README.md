@@ -1,9 +1,9 @@
 ####parzival
 | [![logo dic]](https://discord.gg/GzFPXvYGzw) |  | [![logo insta]](https://www.instagram.com/parzivalw_/) |
-| :--: | :--: | :--: |
+| :-: | :-: | :-: |
 |  | ![logo me] |  |
 | [![logo telegram]](http://s10.picofile.com/file/8395073492/Untitled_1_2.png) |  | [![logo DONATE]](https://reymit.ir/p.a.r.z.i.v.a.l) |
-| :--: | :--: | :--: |
+
 
 
 [logo dic]: http://s12.picofile.com/file/8401950368/PicsArt_07_04_01.png
