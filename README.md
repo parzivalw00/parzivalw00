@@ -43,7 +43,7 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parzivalw00&theme=dark&show" style="width: 100%" /></div>
 <br />
 
-<div align="center"><image src="https://leetcode.card.workers.dev/?username=Parzivalw00&theme=dark&show" style=with: 100%" /></div>
+<div align="center"><image src="https://leetcode.card.workers.dev/?username=parzivalw&theme=dark&show" style=with: 100%" /></div>
 
 ----
 #### <div align="center">Root-Kali</div>
