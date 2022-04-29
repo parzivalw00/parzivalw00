@@ -43,5 +43,7 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parzivalw00&theme=dark&show" style="width: 100%" /></div>
 <br />
 
+[![parzivalw00 - GitHub](https://gh-card.dev/repos/parzivalw00.png?fullname=)](https://github.com/parzivalw00)
+
 ----
 #### <div align="center">Root-Kali</div>
