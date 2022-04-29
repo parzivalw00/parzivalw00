@@ -38,6 +38,3 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=parzivalw00&theme=dark&shaw" style="width: 100%" />  <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parzivalw00&theme=dark&show" style="width: 100%" /></div>
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
