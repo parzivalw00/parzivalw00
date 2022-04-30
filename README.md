@@ -1,47 +1,40 @@
-<br/>
-
-<div align="center">
-<img src="https://media.discordapp.net/attachments/900111005059801138/953073684703232001/MafiaSnake_-_V2.png" align="center" height="32" width="32" />
+<div class="card-container">
+  <span class="pro">PRO</span>
+  <img class="round" src="https://randomuser.me/api/portraits/women/79.jpg" alt="user" />
+  <h3>Ricky Park</h3>
+  <h6>New York</h6>
+  <p>User interface designer and <br/> front-end developer</p>
+  <div class="buttons">
+    <button class="primary">
+      Message
+    </button>
+    <button class="primary ghost">
+      Following
+    </button>
+  </div>
+  <div class="skills">
+    <h6>Skills</h6>
+    <ul>
+      <li>UI / UX</li>
+      <li>Front End Development</li>
+      <li>HTML</li>
+      <li>CSS</li>
+      <li>JavaScript</li>
+      <li>React</li>
+      <li>Node</li>
+    </ul>
+  </div>
 </div>
 
-##### <div align="center">Discord Developer</div>  
+<footer>
+  <p>
+    Created with <i class="fa fa-heart"></i> by
+    <a target="_blank" href="https://florin-pop.com">Florin Pop</a>
+    - Read how I created this
+    <a target="_blank" href="https://florin-pop.com/blog/2019/04/profile-card-design">here</a>
+    - Design made by
+    <a target="_blank" href="https://dribbble.com/shots/6276930-Profile-Card-UI-Design">Ildiesign</a>
+  </p>
+</footer>
 
-###### <div align="center">NODE.JS Developer - Graphics Designer</div>  
-
-###### <div align="center">Artist - Painter</div>
-
-###### <div align="center">⚙️</div>
-
-<br/>
-
-[![logo dic]](https://discord.gg/GzFPXvYGzw) |  | [![logo insta]](https://www.instagram.com/parzivalw_/) 
- | :-: | :-: | :-: |
- | | ![logo me] |  |
-[![logo telegram]](http://s10.picofile.com/file/8395073492/Untitled_1_2.png) |  | [![logo DONATE]](https://reymit.ir/p.a.r.z.i.v.a.l)
-
-
-
-[logo dic]: http://s12.picofile.com/file/8401950368/PicsArt_07_04_01.png
-
-[logo insta]: http://s12.picofile.com/file/8401950284/2220.png
-
-[logo me]: http://s12.picofile.com/file/8401950384/unnamed_1_as_Smart_Object_1.png
-
-[logo donate]: http://s12.picofile.com/file/8401950250/333330.png
-
-[logo telegram]: http://s12.picofile.com/file/8401950326/111.png
-
-
-<br/>
-
-##### <div align="center">Stats</div>
-
-<img src="https://github-readme-stats.vercel.app/api?username=parzivalw00&theme=dark&shaw" style="width: 100%" /> 
-
-----
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parzivalw00&theme=dark&show" style="width: 100%" /></div>
-<br />
-
-----
-#### <div align="center">Root-Kali</div>
+parzival
