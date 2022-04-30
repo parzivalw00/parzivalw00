@@ -37,4 +37,4 @@
   </p>
 </footer>
 
-parzival
+Resources
