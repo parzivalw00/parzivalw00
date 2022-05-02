@@ -40,8 +40,8 @@
 
 ----
 
-<div align="center">
-<img src="https://media.discordapp.net/attachments/862713759389581362/970582077214969866/profile_parzival_git.jpg" align="center" height="700" style="width: 50%" />
+<div align="left">
+<img src="https://media.discordapp.net/attachments/862713759389581362/970582077214969866/profile_parzival_git.jpg" align="left" height="700" style="width: 50%" />
 </div>
 
 ----
