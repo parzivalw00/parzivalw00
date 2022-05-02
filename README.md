@@ -16,9 +16,15 @@
 <br/>
 
 <div align="center">
-<img src="https://media.discordapp.net/attachments/862713759389581362/970582077214969866/profile_parzival_git.jpg" align="left" height="600' whith="300" />
-
-
+<img src="https://media.discordapp.net/attachments/862713759389581362/970582077214969866/profile_parzival_git.jpg" align="left" height="600" whith="300" />
+</div>
+<p align="right">
+<a herf="https://aparat.com/p.a.r.z.i.v.a.l/live"<img src="style="border-radius:15px" alt="aparat"></a>
+<a herf="https://aparat.com/p.a.r.z.i.v.a.l/live"<img src="style="border-radius:15px" alt="aparat"></a>
+<a herf="https://aparat.com/p.a.r.z.i.v.a.l/live"<img src="style="border-radius:15px" alt="aparat"></a>
+<a herf="https://aparat.com/p.a.r.z.i.v.a.l/live"<img src="style="border-radius:15px" alt="aparat"></a>
+<a herf="https://aparat.com/p.a.r.z.i.v.a.l/live"<img src="style="border-radius:15px" alt="aparat"></a>
+</p>
 
 <br/>
 
