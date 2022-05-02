@@ -19,7 +19,7 @@
 <img src="https://media.discordapp.net/attachments/862713759389581362/970582077214969866/profile_parzival_git.jpg" align="left" height="600" whith="300" />
 </div>
 
-  <a href="https://instagram.com/hadi._.azt%22%3E"><img src="https://img.shields.io/badge/Instagram-171717?style=for-the-badge&logo=instagram&logoColor=5459a7" style="border-radius:15px" alt="Instagram"></a>
+  <a href="https://instagram.com/hadi._.azt%22%3E"><img src="https://media.discordapp.net/attachments/900111005059801138/953073684703232001/MafiaSnake_-_V2.png" style="border-radius:15px" alt="Instagram"></a>
 
 ----
 ##### <div align="center">Stats</div>
