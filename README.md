@@ -23,25 +23,25 @@
 ----
 
 <a align="left">
-<a href="https://aparat.com/p.a.r.z.i.v.a.l/live"><img src="https://cdn.discordapp.com/attachments/865598508924796978/970633694568144927/gmail.png" align="left" height="100" style="width: 30%"></a>
+<a href="https://aparat.com/p.a.r.z.i.v.a.l/live"><img src="https://cdn.discordapp.com/attachments/865598508924796978/970633694568144927/gmail.png" align="left" height="100" style="width: 50%"></a>
 
 
 <a align="center">
-<a href="https://aparat.com/p.a.r.z.i.v.a.l/live"><img src="https://cdn.discordapp.com/attachments/865598508924796978/970633694568144927/gmail.png" align="center" height="100" style="width: 40%"></a>
+<a href="https://aparat.com/p.a.r.z.i.v.a.l/live"><img src="https://cdn.discordapp.com/attachments/865598508924796978/970633694568144927/gmail.png" align="center" height="100" style="width: 50%"></a>
 
 ----
 
 <a align="center">
-<a href="https://aparat.com/p.a.r.z.i.v.a.l/live"><img src="https://cdn.discordapp.com/attachments/865598508924796978/970633694568144927/gmail.png" height="100" width="300"></a>
+<a href="https://aparat.com/p.a.r.z.i.v.a.l/live"><img src="https://cdn.discordapp.com/attachments/865598508924796978/970633694568144927/gmail.png" height="100" width="5"></a>
 
 ----
 
 <a align="lect">
-<a href="https://aparat.com/p.a.r.z.i.v.a.l/live"><img src="https://cdn.discordapp.com/attachments/865598508924796978/970633694568144927/gmail.png" align="left" height="100" style="width: 30%"></a>
+<a href="https://aparat.com/p.a.r.z.i.v.a.l/live"><img src="https://cdn.discordapp.com/attachments/865598508924796978/970633694568144927/gmail.png" align="left" height="100" style="width: 50%"></a>
 
 
 <a align="left">
-<a href="https://aparat.com/p.a.r.z.i.v.a.l/live"><img src="https://cdn.discordapp.com/attachments/865598508924796978/970633694568144927/gmail.png" align="center" height="100" style="width: 45%"></a>
+<a href="https://aparat.com/p.a.r.z.i.v.a.l/live"><img src="https://cdn.discordapp.com/attachments/865598508924796978/970633694568144927/gmail.png" align="center" height="100" style="width: 50%"></a>
 
 ----
 ##### <div align="center">Stats</div>
