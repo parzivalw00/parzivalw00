@@ -20,7 +20,7 @@
 </div>
 
 <a align="write">
-<a herf="https://aparat.cpm/p.a.r.z.i.v.a.l/live"><img src"https://media.discordapp.net/attachments/900111005059801138/953073684703232001/MafiaSnake_-_V2.png"  style="width: 100%" />
+<a herf="https://aparat.cpm/p.a.r.z.i.v.a.l/live"><img src"https://media.discordapp.net/attachments/900111005059801138/953073684703232001/MafiaSnake_-_V2.png" style="width: 100%" />
 </a>
 
 
