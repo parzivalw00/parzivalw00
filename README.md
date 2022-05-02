@@ -15,11 +15,12 @@
 
 <br/>
 
-<div align="center">
+<div align="left">
 <img src="https://media.discordapp.net/attachments/862713759389581362/970582077214969866/profile_parzival_git.jpg" align="left" height="600" whith="300" />
 </div>
 
-
+<a aligen"write">
+<a herf="https://aparat.cpm/p.a.r.z.i.v.a.l/live"><img src"https://cdn.discordapp.com/attachments/865598508924796978/963775845477015562/1649852464292.png" 
 
 ----
 ##### <div align="center">Stats</div>
