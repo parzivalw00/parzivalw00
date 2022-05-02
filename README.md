@@ -41,7 +41,11 @@
 ----
 
 <div align="left">
-<img src="https://media.discordapp.net/attachments/862713759389581362/970582077214969866/profile_parzival_git.jpg" align="left" height="700" style="width: 50%" />
+<img src="https://media.discordapp.net/attachments/862713759389581362/970582077214969866/profile_parzival_git.jpg" align="left" height="700" style="width: 48%" />
+</div>
+
+<div align="write">
+<img src="https://media.discordapp.net/attachments/862713759389581362/970582077214969866/profile_parzival_git.jpg" align="write" height="700" style="width: 48%" />
 </div>
 
 ----
