@@ -19,8 +19,8 @@
 <img src="https://media.discordapp.net/attachments/862713759389581362/970582077214969866/profile_parzival_git.jpg" align="left" height="600" whith="300" />
 </div>
 
-<a href="https://aparat.com/p.a.r.z.i.v.a.l/live"><img src="https://cdn.discordapp.com/attachments/865598508924796978/970633694568144927/gmail.png" align="center" height="100" whith="300"></a>
- <a href="https://aparat.com/p.a.r.z.i.v.a.l/live"><img src="https://cdn.discordapp.com/attachments/865598508924796978/970633694568144927/gmail.png" align="center" height="100" whith="300"></a>
+<a href="https://aparat.com/p.a.r.z.i.v.a.l/live"><img src="https://cdn.discordapp.com/attachments/865598508924796978/970633694568144927/gmail.png" align="center" height="100" whith="600"></a>
+ <a href="https://aparat.com/p.a.r.z.i.v.a.l/live"><img src="https://cdn.discordapp.com/attachments/865598508924796978/970633694568144927/gmail.png" align="center" height="100" whith="600"></a>
 ----
 ##### <div align="center">Stats</div>
 
