@@ -20,11 +20,11 @@
 </div>
 
 <p align="write">
-<a herf="https://aparat.com/p.a.r.z.i.v.a.l/live<img src="https://cdn.discordapp.com/attachments/865598508924796978/963775845477015562/1649852464292.png" style="border-radius:15px" alt="aparat"></a>
-<a herf="https://aparat.com/p.a.r.z.i.v.a.l/live<img src="https://cdn.discordapp.com/attachments/865598508924796978/963775845477015562/1649852464292.png" style="border-radius:15px" alt="aparat"></a>
-<a herf="https://aparat.com/p.a.r.z.i.v.a.l/live<img src="https://cdn.discordapp.com/attachments/865598508924796978/963775845477015562/1649852464292.png" style="border-radius:15px" alt="aparat"></a>
-<a herf="https://aparat.com/p.a.r.z.i.v.a.l/live<img src="https://cdn.discordapp.com/attachments/865598508924796978/963775845477015562/1649852464292.png" style="border-radius:15px" alt="aparat"></a>
-<a herf="https://aparat.com/p.a.r.z.i.v.a.l/live<img src="https://cdn.discordapp.com/attachments/865598508924796978/963775845477015562/1649852464292.png" style="border-radius:15px" alt="aparat"></a>
+<a herf="https://aparat.com/p.a.r.z.i.v.a.l/live<img src="https://cdn.discordapp.com/attachments/865598508924796978/963775845477015562/1649852464292.png" style="border-radius:50px" alt="aparat"></a>
+<a herf="https://aparat.com/p.a.r.z.i.v.a.l/live<img src="https://cdn.discordapp.com/attachments/865598508924796978/963775845477015562/1649852464292.png" style="border-radius:50px" alt="aparat"></a>
+<a herf="https://aparat.com/p.a.r.z.i.v.a.l/live<img src="https://cdn.discordapp.com/attachments/865598508924796978/963775845477015562/1649852464292.png" style="border-radius:50px" alt="aparat"></a>
+<a herf="https://aparat.com/p.a.r.z.i.v.a.l/live<img src="https://cdn.discordapp.com/attachments/865598508924796978/963775845477015562/1649852464292.png" style="border-radius:50px" alt="aparat"></a>
+<a herf="https://aparat.com/p.a.r.z.i.v.a.l/live<img src="https://cdn.discordapp.com/attachments/865598508924796978/963775845477015562/1649852464292.png" style="border-radius:50px" alt="aparat"></a>
 </p>
 
 <br/><br/>
