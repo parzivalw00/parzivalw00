@@ -15,7 +15,7 @@
 
 <br/>
 
-<div align="left">
+<div align="center">
 <img src="https://media.discordapp.net/attachments/862713759389581362/970582077214969866/profile_parzival_git.jpg" align="left" height="575" whith="350" />
 </div>
 
