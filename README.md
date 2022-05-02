@@ -20,8 +20,7 @@
 </div>
 
 <a align="write">
-<a herf="https://aparat.cpm/p.a.r.z.i.v.a.l/live">
-<img src"https://media.discordapp.net/attachments/865598508924796978/963775845477015562/1649852464292.png" align="left" height="100" whith="300" />
+<a herf="https://aparat.cpm/p.a.r.z.i.v.a.l/live"><img src"https://media.discordapp.net/attachments/865598508924796978/963775845477015562/1649852464292.png" align="left" height="100" whith="300" />
 </a>
 
 
