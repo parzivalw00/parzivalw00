@@ -19,7 +19,7 @@
 ----
 
 <a align="center">
-<a href="https://youtube.com/channel/UCXbSf-mBetjGSR_Eq7Ajesw"><img src="https://cdn.discordapp.com/attachments/865598508924796978/970738640303042590/profile_parzival_git.png" align="center" height="40" style="width: 18%" ></a>
+<a href="https://youtube.com/channel/UCXbSf-mBetjGSR_Eq7Ajesw"><img src="https://cdn.discordapp.com/attachments/865598508924796978/970638029322604574/youtube.png" align="center" height="40" style="width: 18%" ></a>
 <a/>
 
 <a align="center">
