@@ -24,24 +24,23 @@
 
 <a align="left">
 <a href="https://aparat.com/p.a.r.z.i.v.a.l/live"><img src="https://cdn.discordapp.com/attachments/865598508924796978/970633694568144927/gmail.png" align="left" height="100" style="width: 45%"></a>
-</br>
+
 
 <a align="left">
 <a href="https://aparat.com/p.a.r.z.i.v.a.l/live"><img src="https://cdn.discordapp.com/attachments/865598508924796978/970633694568144927/gmail.png" align="center" height="100" style="width: 45%"></a>
-</br>
+
 
 <a align="left">
 <a href="https://aparat.com/p.a.r.z.i.v.a.l/live"><img src="https://cdn.discordapp.com/attachments/865598508924796978/970633694568144927/gmail.png" align="center" height="100" style="width: 45%"></a>
-</br>
+
 
 <a align="left">
 <a href="https://aparat.com/p.a.r.z.i.v.a.l/live"><img src="https://cdn.discordapp.com/attachments/865598508924796978/970633694568144927/gmail.png" align="center" height="100" style="width: 45%"></a>
-</br>
+
 
 <a align="left">
 <a href="https://aparat.com/p.a.r.z.i.v.a.l/live"><img src="https://cdn.discordapp.com/attachments/865598508924796978/970633694568144927/gmail.png" align="center" height="100" style="width: 45%"></a>
-</br>
-</a>
+
 ----
 ##### <div align="center">Stats</div>
 
