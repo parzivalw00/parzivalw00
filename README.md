@@ -35,7 +35,7 @@
 <a/>
 
 <a align="center">
-<a href="www.abolparzival@gmail.com"><img src="https://cdn.discordapp.com/attachments/865598508924796978/970633694568144927/gmail.png" align="center" height="40" style="width: 18%" ></a>
+<a href="https://gmail.com/abolparzival"><img src="https://cdn.discordapp.com/attachments/865598508924796978/970633694568144927/gmail.png" align="center" height="40" style="width: 18%" ></a>
 <a/>
 
 ----
