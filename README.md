@@ -19,7 +19,7 @@
 <img src="https://media.discordapp.net/attachments/862713759389581362/970582077214969866/profile_parzival_git.jpg" align="left" height="600" whith="300" />
 </div>
 
-  <a href="https://aparat.com/p.a.r.z.i.v.a.l/live"><img src="https://media.discordapp.net/attachments/900111005059801138/953073684703232001/MafiaSnake_-_V2.png" height="100" whith="300" alt="aparat"></a>
+  <a href="https://aparat.com/p.a.r.z.i.v.a.l/live"><img src="https://media.discordapp.net/attachments/900111005059801138/953073684703232001/MafiaSnake_-_V2.png" height="100" whith="700" alt="aparat"></a>
 
 ----
 ##### <div align="center">Stats</div>
