@@ -22,26 +22,25 @@
 
 ----
 
-<a align="left">
-<a href="https://aparat.com/p.a.r.z.i.v.a.l/live"><img src="https://cdn.discordapp.com/attachments/865598508924796978/970633694568144927/gmail.png" align="left" height="100" style="width: 49%"></a>
-
-
 <a align="center">
-<a href="https://aparat.com/p.a.r.z.i.v.a.l/live"><img src="https://cdn.discordapp.com/attachments/865598508924796978/970633694568144927/gmail.png" align="center" height="100" style="width: 49%"></a>
+<a href="https://aparat.com/p.a.r.z.i.v.a.l/live"><img src="https://cdn.discordapp.com/attachments/865598508924796978/970633694568144927/gmail.png" ></a>
+
+
+
+<a href="https://aparat.com/p.a.r.z.i.v.a.l/live"><img src="https://cdn.discordapp.com/attachments/865598508924796978/970633694568144927/gmail.png"></a>
 
 ----
 
-<a align="center">
-<a href="https://aparat.com/p.a.r.z.i.v.a.l/live"><img src="https://cdn.discordapp.com/attachments/865598508924796978/970633694568144927/gmail.png" align="center"></a>
+<a href="https://aparat.com/p.a.r.z.i.v.a.l/live"><img src="https://cdn.discordapp.com/attachments/865598508924796978/970633694568144927/gmail.png"></a>
 
 ----
 
-<a align="lect">
-<a href="https://aparat.com/p.a.r.z.i.v.a.l/live"><img src="https://cdn.discordapp.com/attachments/865598508924796978/970633694568144927/gmail.png" align="left" height="100" style="width: 49%"></a>
+
+<a href="https://aparat.com/p.a.r.z.i.v.a.l/live"><img src="https://cdn.discordapp.com/attachments/865598508924796978/970633694568144927/gmail.png"></a>
 
 
-<a align="left">
-<a href="https://aparat.com/p.a.r.z.i.v.a.l/live"><img src="https://cdn.discordapp.com/attachments/865598508924796978/970633694568144927/gmail.png" align="center" height="100" style="width: 49%"></a>
+
+<a href="https://aparat.com/p.a.r.z.i.v.a.l/live"><img src="https://cdn.discordapp.com/attachments/865598508924796978/970633694568144927/gmail.png"></a>
 
 ----
 ##### <div align="center">Stats</div>
