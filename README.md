@@ -27,15 +27,15 @@
 <a/>
 
 <a align="center">
-<a href="https://aparat.cpm/p.a.r.z.i.v.a.l/live"><img src="https://cdn.discordapp.com/attachments/865598508924796978/970638029607829554/instagram.png" align="center" height="40" style="width: 18%" ></a>
+<a href="https://instagram.com/parzivalw_"><img src="https://cdn.discordapp.com/attachments/865598508924796978/970638029607829554/instagram.png" align="center" height="40" style="width: 18%" ></a>
 <a/>
 
 <a align="center">
-<a href="https://aparat.com/p.a.r.z.i.v.a.l/live"><img src="https://cdn.discordapp.com/attachments/865598508924796978/970638028945125406/discord.png" align="center" height="40" style="width: 18%" ></a>
+<a href="https://discord.gg/"><img src="https://cdn.discordapp.com/attachments/865598508924796978/970638028945125406/discord.png" align="center" height="40" style="width: 18%" ></a>
 <a/>
 
 <a align="center">
-<a href="https://aparat.com/p.a.r.z.i.v.a.l/live"><img src="https://cdn.discordapp.com/attachments/865598508924796978/970633694568144927/gmail.png" align="center" height="40" style="width: 18%" ></a>
+<a href="https://www.abolparzival@gmail.com"><img src="https://cdn.discordapp.com/attachments/865598508924796978/970633694568144927/gmail.png" align="center" height="40" style="width: 18%" ></a>
 <a/>
 
 ----
