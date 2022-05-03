@@ -80,9 +80,9 @@ console.table("socials", "i'v an account")
 
 ```py
 class MoonTeam:
-    first = "love"
-    second = "hardworking"
-    third = "satisfaction"
+    first = "Love"
+    second = "Kiss"
+    third = "Hug"
 ```
 
 ----
