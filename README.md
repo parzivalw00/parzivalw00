@@ -58,12 +58,4 @@
 <br/><br/>
 
 ----
-
-```js
-function test() {
-  console.log("notice the blank line before this function?");
-}
-```
-
-----
 #### <div align="center">Root-Kali</div>
