@@ -78,12 +78,5 @@ console.table("socials", "i'v an account")
 
 ```
 
-```py
-class MoonTeam:
-    first = "Love"
-    second = "Kiss"
-    third = "Hug"
-```
-
 ----
 #### <div align="center">Root-Kali</div>
