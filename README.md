@@ -53,7 +53,7 @@
 
 <div align="left"><img src="https://github-readme-stats.vercel.app/api?username=parzivalw00&theme=great-gatsby" align="left" style="width: 45%" /></div>
 <div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parzivalw00&theme=great-gatsby" align="center" right="width: 50%" /></div>
-
+  <br></br>
 
 ----
 #### <div align="center">Root-Kali</div>
