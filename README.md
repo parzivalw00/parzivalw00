@@ -62,9 +62,10 @@
 ```js
 const myinfo = [
   {name:'log', type'standard'},
-   {name:'info', type'standard'},
-    {name:'table', type'wow'}
+  {name:'info', type'standard'},
+  {name:'table', type'wow'}
 ]
+
 console.table(myinfo)
 
 const mysocial = {
@@ -74,6 +75,7 @@ const mysocial = {
   Facebook: false,
   TikTok: false,
 }
+
 console.table("socials", "i'v an account")
 
 ```
