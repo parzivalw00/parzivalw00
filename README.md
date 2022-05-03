@@ -67,15 +67,22 @@ class DociTeam:
 ```
 
 ```js
-const mysocial = {
-  Instagram: true,
-  Discord: true,
-  YouTobe: true,
-  Facebook: false,
-  TikTok: false,
-}
-console.table("socials", "i'v an account")
-
+const me = {
+   pronouns: "he" | "him",
+   code: [Javascript, HTML, Java],
+   tools: [React, Redux, Node, Styled-Components],
+   askMeAbout: ["web dev", "tech", "app dev", "painting"],
+   technologies: {
+      Front: {
+          js: ["Node", "Express"],
+      },
+      DiscordApp: {
+               native: ["Bot Development"]
+      },
+      databases: ["mongo", "MySql", "sqlite"],
+      currentFocus: "Building a robot in Discord community.",
+       funFact: "There are two ways to write error-free programs; only the third one works"
+};
 ```
 
 ----
