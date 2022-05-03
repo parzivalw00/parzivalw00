@@ -58,4 +58,27 @@
 <br/><br/>
 
 ----
+
+```js
+const myinfo = [
+   {name:'log', type'standard'}
+   {name:'info', type'standard'}
+   {name:'table', type'wow'}
+]
+
+console.table(myinfo)
+
+const mysocial = {
+  Instagram: true,
+  Discord: true,
+  YouTobe: true,
+  Facebook: false,
+  TikTok: false,
+}
+
+console.table("socials", "i'v an account")
+
+```
+
+----
 #### <div align="center">Root-Kali</div>
