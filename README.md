@@ -43,7 +43,7 @@
 
 
 <div align="center">
-<img src="https://cdn.discordapp.com/attachments/865598508924796978/970738640303042590/profile_parzival_git.png" align="center" height="700" style="width: 48%" />
+<img src="https://cdn.discordapp.com/attachments/865598508924796978/970738640303042590/profile_parzival_git.png" align="center" height="600" style="width: 48%" />
 </div>
 
 
