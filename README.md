@@ -62,7 +62,8 @@
 class DociTeam:
     first = "love"
     second = "hardworking"
-    third = "satisfaction" ```
+    third = "satisfaction"
+```
 
 ```js
 const mysocial = {
