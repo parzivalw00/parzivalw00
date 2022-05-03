@@ -54,7 +54,7 @@
 
 ----
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parzivalw00&theme=dark&show" style="width: 100%" /></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parzivalw00&theme=great-gatsby" style="width: 100%" /></div>
 <br />
 
 ----
