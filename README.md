@@ -18,13 +18,14 @@
 
 ----
 
-<a align="center">
-<a href="https://youtube.com/channel/UCXbSf-mBetjGSR_Eq7Ajesw"><img src="https://cdn.discordapp.com/attachments/865598508924796978/970638029322604574/youtube.png" align="center" height="40" style="width: 18%" ></a>
+<a align="left">
+<a href="https://youtube.com/channel/UCXbSf-mBetjGSR_Eq7Ajesw"><img src="https://cdn.discordapp.com/attachments/865598508924796978/970638029322604574/youtube.png" align="left" height="40" style="width: 18%" ></a>
 <a/>
 
-<a align="center">
-<a href="https://aparat.com/p.a.r.z.i.v.a.l/live"><img src="https://cdn.discordapp.com/attachments/865598508924796978/970638029138046976/aparat.png" align="center" height="40" style="width: 18%" ></a>
+<a align="right">
+<a href="https://aparat.com/p.a.r.z.i.v.a.l/live"><img src="https://cdn.discordapp.com/attachments/865598508924796978/970638029138046976/aparat.png" align="right" height="40" style="width: 18%" ></a>
 <a/>
+ <br/>
 
 <a align="center">
 <a href="https://instagram.com/parzivalw_"><img src="https://cdn.discordapp.com/attachments/865598508924796978/970638029607829554/instagram.png" align="center" height="40" style="width: 18%" ></a>
