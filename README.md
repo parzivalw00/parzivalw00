@@ -11,7 +11,7 @@
 
 ###### <div align="center">Artist - Painter</div>
 
-###### <div align="center">⚙️</div>
+###### <div align="center"> ⚙️</div>
 
 
 
