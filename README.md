@@ -61,9 +61,9 @@
 
 ```js
 const myinfo = [
-   {name:'log', type'standard'},
+  {name:'log', type'standard'},
    {name:'info', type'standard'},
-   {name:'table', type'wow'}
+    {name:'table', type'wow'}
 ]
 
 console.table(myinfo)
