@@ -80,8 +80,8 @@ const parzival = {
                native: ["Bot Development"]
       },
       databases: ["mongo", "MySql", "sqlite"],
-      currentFocus: "Building a robot in Discord community.",
-       funFact: "There are two ways to write error-free programs; only the third one works"
+      currentFocus: "Building a robot in Discord community",
+      funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
 
