@@ -50,7 +50,7 @@
 ----
 ##### <div align="center">Stats</div>
 
-<div align="right"><img src="https://github-readme-stats.vercel.app/api?username=parzivalw00&theme=great-gatsby" style="width: 100%" /></div>
+<div align="right"><img src="https://github-readme-stats.vercel.app/api?username=parzivalw00&theme=great-gatsby" style="width: 490%" /></div>
 
 ----
 
