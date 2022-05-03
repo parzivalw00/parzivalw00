@@ -67,7 +67,7 @@ class DociTeam:
 ```
 
 ```js
-const me = {
+const parzival = {
    pronouns: "He" | "Him",
    code: [Javascript, HTML, Java],
    tools: [React, Redux, Node, Styled-Components],
