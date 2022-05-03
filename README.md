@@ -51,10 +51,10 @@
 
 ###### <div align="center">Stats</div><br/>
 
-<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=parzivalw00&theme=great-gatsby" align="left" height="200" style="width: 42%" /></div>
+<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=parzivalw00&theme=great-gatsby" align="left" height="180" style="width: 42%" /></div>
 
 
-<div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parzivalw00&theme=great-gatsby" align="center" height="200" right="width: 42%" /></div>
+<div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parzivalw00&theme=great-gatsby" align="center" height="180" right="width: 42%" /></div>
 <br/><br/>
 
 ----
