@@ -51,7 +51,7 @@
 
 ##### <div align="center">Stats</div>
 
-<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=parzivalw00&theme=great-gatsby" align="left" height="250" style="width: 45%" /></div>
+<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=parzivalw00&theme=great-gatsby" align="left" height="300" style="width: 45%" /></div>
 
 <br/>
 
