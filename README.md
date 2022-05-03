@@ -59,6 +59,11 @@
 
 ----
 
+class DociTeam:
+    first = "love"
+    second = "hardworking"
+    third = "satisfaction" ```
+
 ```js
 const mysocial = {
   Instagram: true,
