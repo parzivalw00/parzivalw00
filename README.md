@@ -59,6 +59,7 @@
 
 ----
 
+```py
 class DociTeam:
     first = "love"
     second = "hardworking"
