@@ -68,7 +68,7 @@ class DociTeam:
 
 ```js
 const me = {
-   pronouns: "he" | "him",
+   pronouns: "He" | "Him",
    code: [Javascript, HTML, Java],
    tools: [React, Redux, Node, Styled-Components],
    askMeAbout: ["web dev", "tech", "app dev", "painting"],
