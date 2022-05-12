@@ -2,7 +2,7 @@
 <br/>
 
 <div align="center">
-<img src="https://media.discordapp.net/attachments/900111005059801138/953073684703232001/MafiaSnake_-_V2.png" align="center" height="40" width="40" />
+<img src="https://media.discordapp.net/attachments/959980033676542023/974131848093523989/MafiaSnake_-_V2.png" align="center" height="40" width="40" />
 </div>
 
 ##### <div align="center">Discord Developer</div>  
