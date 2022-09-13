@@ -53,14 +53,16 @@
 
 <div align="left"><img src="https://github-readme-stats.vercel.app/api?username=parzivalw00&theme=great-gatsby" align="left" height="140p" style="width: 40%" /></div>
 
-||
 
 <div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parzivalw00&theme=great-gatsby" align="center" height="140p" right="width: 40%" /></div>
 <br/><br/>
 
 ----
-    
- 
+
+    ```js
+    </>
+    ```
+
 ```js
 const Parzival = {
    pronouns: "He" | "Him",
