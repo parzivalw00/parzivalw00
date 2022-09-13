@@ -22,7 +22,7 @@
 
 
 <div align="right">
-<a href="https://aparat.com/p.a.r.z.i.v.a.l/live"><img src="https://cdn.discordapp.com/attachments/865598508924796978/970638029138046976/aparat.png" align="right" height="40" style="width: 18%" ></a></div>
+<a href="https://aparat.com/PARZIVALW/live"><img src="https://cdn.discordapp.com/attachments/865598508924796978/970638029138046976/aparat.png" align="right" height="40" style="width: 18%" ></a></div>
 <br/>
 
 ----
