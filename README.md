@@ -43,7 +43,7 @@
 
 
 <div align="center">
-<img src="https://cdn.discordapp.com/attachments/931125155621666836/976436903232561172/IMG_20220518_152034.jpg" align="center" height="460" style="width: 38%" />
+<img src="https://cdn.discordapp.com/attachments/931125155621666836/976436903232561172/IMG_20220518_152034.jpg" align="center" height="450" style="width: 40%" />
 </div>
 
 
@@ -51,10 +51,10 @@
 
 ###### <div align="center">Stats</div><br/>
 
-<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=parzivalw00&theme=great-gatsby" align="left" height="170" style="width: 40%" /></div>
+<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=parzivalw00&theme=great-gatsby" align="left" height="160" style="width: 40%" /></div>
 
 
-<div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parzivalw00&theme=great-gatsby" align="center" height="170p" right="width: 40%" /></div>
+<div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parzivalw00&theme=great-gatsby" align="center" height="160p" right="width: 40%" /></div>
 <br/><br/>
 
 ----
