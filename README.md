@@ -45,7 +45,7 @@
    
 <div align="center">
 
-<a href="https://instagram.com/parzivalw_"><img src="https://cdn.discordapp.com/attachments/865598508924796978/970638029607829554/instagram.png" align="center" height="40" style="width: 18%" ><a/></div>
+<a href="https://instagram.com/parzivalw_"><img src="" align="center" height="40" style="width: 18%" ><a/></div>
 ----
    
 
