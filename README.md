@@ -44,7 +44,7 @@
    
 <div align="center">
 
-<a href="https://www.instagram.com/parzivalw_/"><img src="https://media.discordapp.net/attachments/1050893243031765174/1052699889911484526/Screenshot_20221215-010144_Discord.jpg" align="center" height="115" style="width: 14%" />></div>
+<a href="https://www.instagram.com/parzivalw_/"><img src="https://media.discordapp.net/attachments/1050893243031765174/1052699889911484526/Screenshot_20221215-010144_Discord.jpg" align="center" height="400" style="width: 30%" />></div>
 
 <br/>
    
