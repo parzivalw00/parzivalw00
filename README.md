@@ -48,7 +48,7 @@
 
   <h2>Abolfazl. Mohammadi...</h2>
 
-  <h5>Age: 21. 〚⚙〛Skill: Node.js, JavaScript, React, Redux, Ruby, UI-UX, 〚💖〛 AskMeAbout: Discord developer, Discord configure... </h5>
+  <h5></h5>
 
   <h6></h6></div>
 
