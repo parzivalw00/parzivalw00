@@ -44,7 +44,7 @@
    
 <div align="left">
 
-<a href="https://www.instagram.com/parzivalw_/"><img src="https://user-images.githubusercontent.com/106273190/206874721-44867a9e-15fd-4988-b44c-ea16f2583234.png" align="left" height="115" style="width: 14%" ><a/>
+<a href="https://www.instagram.com/parzivalw_/"><img src="https://media.discordapp.net/attachments/1050893243031765174/1052699889911484526/Screenshot_20221215-010144_Discord.jpg" align="left" height="115" style="width: 14%" ><a/>
 
   <h2>Abolfazl. Mohammadi...</h2>
 
