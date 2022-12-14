@@ -42,15 +42,9 @@
 
    
    
-<div align="left">
+<div align="center">
 
-<a href="https://www.instagram.com/parzivalw_/"><img src="https://media.discordapp.net/attachments/1050893243031765174/1052699889911484526/Screenshot_20221215-010144_Discord.jpg" align="left" height="115" style="width: 14%" ><a/>
-
-  <h2>Abolfazl. Mohammadi...</h2>
-
-  <h5></h5>
-
-  <h6></h6></div>
+<a href="https://www.instagram.com/parzivalw_/"><img src="https://media.discordapp.net/attachments/1050893243031765174/1052699889911484526/Screenshot_20221215-010144_Discord.jpg" align="center" height="115" style="width: 14%" />></div>
 
 <br/>
    
