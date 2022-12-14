@@ -41,12 +41,6 @@
 <br/><br/><br/>
 
 
-
-<div align="center">
-<img src="https://cdn.discordapp.com/attachments/931125155621666836/976436903232561172/IMG_20220518_152034.jpg" align="center" height="450" style="width: 40%" />
-</div>
-
-
 ----
 
 ###### <div align="center">Stats</div><br/>
