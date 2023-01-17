@@ -2,7 +2,7 @@
 <br/>
 
 <div align="center">
-<img src="https://media.discordapp.net/attachments/1050893243031765174/1052682558518866031/PicsArt_12-14-11.png" align="center" height="40" width="40" />
+<img src="https://media.discordapp.net/attachments/1049406847314042930/1064738846618681394/silver.png" align="center" height="40" width="40" />
 </div>
 
 ##### <div align="center">Discord Developer</div>  
