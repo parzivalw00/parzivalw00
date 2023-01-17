@@ -55,7 +55,6 @@
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=parzivalw00&theme=great-gatsby" align="center" height="180p" style="width: 50%" /></div>
 
-----
 
 ###### <div align="center">Most Language</div><br/>
 
@@ -89,3 +88,4 @@ const Parzival = {
 
 ----
 #### <div align="center">Root-Kali</div>
+
