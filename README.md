@@ -58,7 +58,7 @@
 
 ###### <div align="center">Most Language</div><br/>
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parzivalw00&theme=great-gatsby" align="center" height="180p" right="width: 50%" /></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parzivalw00&theme=great-gatsby" align="center" height="180p" right="width: 50%" /></div>
 <br/><br/>
 
 ----
