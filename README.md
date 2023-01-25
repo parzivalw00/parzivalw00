@@ -1,4 +1,3 @@
-
 <br/>
 
 <div align="center">
@@ -35,18 +34,17 @@
 <div align="left">
 <a href="https://discord.gg/kEKgyTjHvN"><img src="https://cdn.discordapp.com/attachments/865598508924796978/970638028945125406/discord.png" align="left" height="40" style="width: 18%" ><a/></div>
 
-
 <div align="right">
 <a href="mailto:abolparzival@gmail.com"><img src="https://cdn.discordapp.com/attachments/865598508924796978/970633694568144927/gmail.png" align="right" height="40" style="width: 18%" ></a></div>
 <br/><br/><br/>
 
-   
-   
 <div align="center">
+<img src="https://media.discordapp.net/attachments/1063119961255591988/1063130412949459064/1673540430194.gif" align="center" width="100%" height=" 250" />
+</div><br/>
 
-<a href="https://www.instagram.com/parzivalw_/"><img src="https://media.discordapp.net/attachments/1049406847314042930/1064734625001390110/image-57.png" align="center" height="400" style="width: 37%" /></div>
-
-<br/>
+|  Name | Discord | Youtube | Instagram | Web | GitHub | WhatsApp |
+|  ------ | ------ | ------ | ------ | ------ | ------ | ------ |
+|  MoonTeam | [![dis](https://cdn.discordapp.com/attachments/1058321121113546783/1067787649529675798/icon.png)](https://discord.gg/moonteam) | [![ty](https://cdn.discordapp.com/attachments/1058321121113546783/1067789430162726912/icon5.png)](https://www.youtube.com/channel/UCXbSf-mBetjGSR_Eq7Ajesw) | [![ig](https://cdn.discordapp.com/attachments/1058321121113546783/1067788445273042945/icon2.png)](https://instagram.com/m0onteam) | [![web](https://cdn.discordapp.com/attachments/1058321121113546783/1067789019506823239/icon4.png)](null) | [![git](https://cdn.discordapp.com/attachments/1058321121113546783/1067790126119395332/ujhytgf.png)](https://github.com/MoonTeam-dev) | [![whats](https://cdn.discordapp.com/attachments/1058321121113546783/1067791368606462072/ww.png)](null) |
    
 ----
    
