@@ -70,7 +70,7 @@
 ```js
 const Parzival = {
    pronouns: "He" | "Him",
-   code: [Javascript, UI-UX, Java, Ruby, React.js],
+   code: [Javascript, UI-UX, Java, Ruby, React],
    tools: [React, Redux, Node, Styled-Components],
    askMeAbout: ["web dev", "tech", "app dev", "painting"],
    technologies: {
