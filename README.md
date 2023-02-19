@@ -1,6 +1,6 @@
 ### Spotify Playing 🎧
 
-[<img src="https://parzivalw00-lziq.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/Abol 💛)
+[<img src="https://parzivalw00-lziq.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/g02xu8ah23v2qqnf97udwav5t)
 
 <br/>
 
