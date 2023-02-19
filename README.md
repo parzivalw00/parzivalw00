@@ -1,6 +1,3 @@
-
-
-
 <br/>
 
 <div align="center">
